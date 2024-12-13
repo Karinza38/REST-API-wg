@@ -1,4 +1,4 @@
-### CWE REST API Working Group
+CWE REST API Working Group
 
 - Co-Chair: Adam Cron (Synopsys)
 - Co-chair: Rich Piazza (MITRE)
